@@ -19,5 +19,5 @@
 1. ОДИН
 2. ДВА
 
-<http://pstu.ru>
+<http://pstu.ru/>
 [пнипу](http://pstu.ru)
