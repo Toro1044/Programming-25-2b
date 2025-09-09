@@ -1,3 +1,4 @@
-# Programming-25-2b
+# Programming-25-2b-AleksandrAnf
 
-Сегодня вторник. Я пришел на пару по алгоритмизации и программированию.
+#LabProgramming-25-2b
+##Semestr-1
