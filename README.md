@@ -20,6 +20,7 @@
 2. ДВА
 
 <http://pstu.ru/>
+
 [пнипу](http://pstu.ru)
 
 ![img](https://avatars.mds.yandex.net/i?id=c3e1eaff4a4caf16b7975e0f30c8b9e3_l-5505644-images-thumbs&n=33&w=2173&h=1222)
